@@ -37,7 +37,7 @@ The quantities I read off are:
 | \$3.51 | 60.00 | Counting |
 | \$3.52 | 0.00 | Counting |
 
-By counting, I mean summing the individual lines at each price. I did not fit a separate statistical curve. At \$0, the total is 1,402 colas per month: the sum of everyone’s quantity\_at\_P0 answer, including the twelve zeros.
+By counting, I mean summing the individual lines at each price. I did not fit a separate statistical curve. At \$0, the total is 1,402 colas per month: That includes the 12 people who said they would take none even if the cola were free.
 
 **Part 3  What I noticed**
 
