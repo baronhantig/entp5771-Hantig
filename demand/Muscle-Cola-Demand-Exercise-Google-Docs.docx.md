@@ -1,4 +1,4 @@
-# rMuscle Cola demand exercise
+# Muscle Cola demand exercise
 
 This uses the 46 responses in muscle-cola.csv to build a demand curve for one cola sold through gyms. I checked the results the assignment gave us before using the curve for the other prices.
 
