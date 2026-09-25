@@ -1,5 +1,7 @@
 Instrument: Modular Card Wallet Demand Instrument
+
 Reviewer: Conrad Rojas
+
 Conrad reviewed the instrument and tested the form as a respondent. He confirmed that the six sections were in the correct order, the image loaded, and the valuation question included the unit, 12-month period, and option to enter zero.
 His main concern was that the screeners could exclude possible customers. Conrad was screened out because he did not carry cards on three or more days each week, even though someone who carries cards less often could still buy a wallet. I broadened this question to ask whether respondents carry physical cards at least occasionally.
 I also changed the question asking whether respondents might purchase or replace a wallet during the next 12 months. A “No” answer no longer ends the survey because that person may still have a low or zero willingness to pay. Both answers now continue to the valuation section.
