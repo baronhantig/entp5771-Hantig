@@ -27,9 +27,9 @@ A price is profitable only if `π(p) > 0`. Width is the number of profitable cen
 
 ## Hand checks and why the peaks changed
 
-At **$45**, exactly **16 of 39** eligible respondents have maximum stated willingness to pay of at least $45. Low-cost margin is `0.971 × $45 − $13.69 = $30.005`. Modeled quantity is `124 × 16 / 39 = 50.8718`, yielding `50.8718 × $30.005 − $500 = **$1,026.41**`.
+At **$45**, exactly **16 of 39** eligible respondents have maximum stated willingness to pay of at least $45. Low-cost margin is `0.971 × $45 − $13.69 = $30.005`. Modeled quantity is `124 × 16 / 39 = 50.8718`, yielding `50.8718 × $30.005 − $500 = $1,026.41`.
 
-At **$55**, exactly **11 of 39** respondents qualify. High-cost margin is `0.971 × $55 − $22.85 = $30.555`. Modeled quantity is `124 × 11 / 39 = 34.9744`, yielding `34.9744 × $30.555 − $500 = **$568.64**`.
+At **$55**, exactly **11 of 39** respondents qualify. High-cost margin is `0.971 × $55 − $22.85 = $30.555`. Modeled quantity is `124 × 11 / 39 = 34.9744`, yielding `34.9744 × $30.555 − $500 = $568.64`.
 
 The earlier draft incorrectly claimed that **16 respondents** would pay **$49.99**. The original Q8 responses show **three respondents answered $45**, so only **13 respondents** would pay $49.99. That invalidated the earlier $49.99 optimum and several intervals. I recalculated every one-cent price directly from the raw answers. The low-cost model now peaks at $45 and the high-cost model at $55.
 
